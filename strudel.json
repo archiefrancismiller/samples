@@ -1,8 +1,9 @@
 {
   
   "_base": "https://raw.githubusercontent.com/archiefrancismiller/samples",
-  "amen1": "ES_AmenClean_A_175.wav",
-  "amen2": "ES_AmenClean_A2_175.wav",
-  "amen3": "ES_AmenClean_A3_175.wav",
-  "dub_gtr_stab": "cw_guitar03.wav"
+  "amen": [
+    "ES_AmenClean_A_175.wav",
+    "ES_AmenClean_A2_175.wav",
+    "ES_AmenClean_A3_175.wav"
+  ],
 }
