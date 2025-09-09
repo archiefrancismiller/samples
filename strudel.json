@@ -1,6 +1,6 @@
 {
   "_base": "https://raw.githubusercontent.com/archiefrancismiller/samples/main",
-  "amen1": [ "Ed Solo - Classic Remastered Jungle Breaks/ES_AmenClean_A_175.wav" ],
-  "amen2": [ "Ed Solo - Classic Remastered Jungle Breaks/ES_AmenClean_A2_175.wav" ],
-  "amen3": [ "Ed Solo - Classic Remastered Jungle Breaks/ES_AmenClean_A3_175.wav" ]
+  "amen1": [ "ES_AmenClean_A_175.wav" ],
+  "amen2": [ "ES_AmenClean_A2_175.wav" ],
+  "amen3": [ "ES_AmenClean_A3_175.wav" ]
 }
