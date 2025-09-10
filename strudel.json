@@ -18,5 +18,7 @@
   "hotpants": [
    "ES_HotPants_A_175.wav",
    "ES_HotPants_B_175.wav" 
-  ]
+  ],
+  "funky": "ES_FunkyDrummer_A_175.wav",
+  "mule": "ES_FunkyMule_A_175.wav"
 }
