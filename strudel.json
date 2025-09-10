@@ -17,43 +17,43 @@
   ],
   "funky": "funky.wav",
   "heli": [
-   "ES_HeliBlow_A_175.wav",
-   "ES_HeliBlow_B_175.wav"
+   "heli_a.wav",
+   "heli_b.wav"
   ],
   "hotpants": [
-   "ES_HotPants_A_175.wav",
-   "ES_HotPants_B_175.wav" 
+   "hotpants_a.wav",
+   "hotpants_b.wav" 
   ],
   "life": [
-   "ES_LifeCould_A_175.wav",
-   "ES_LifeCould_B_175.wav",
-   "ES_LifeCould_C_175.wav"
+   "life_a.wav",
+   "life_b.wav",
+   "life_c.wav"
   ],
-  "mule": "ES_FunkyMule_A_175.wav",
-  "runs": "ES_RunsHouse_+6_175.wav",
+  "mule": "mule.wav",
+  "runs": "runs.wav",
   "scotty": [
-   "ES_Scotty_A_175.wav",
-   "ES_Scotty_B_175.wav",
-   "ES_Scotty_C_175.wav",
-   "ES_Scotty_D_175.wav"
+   "scotty_a.wav",
+   "scotty_b.wav",
+   "scotty_c.wav",
+   "scotty_d.wav"
   ],
-  "skul": "ES_Skul_A_175.wav",
+  "skul": "skul.wav",
   "supreme": [
-   "ES_Supreme_A_175.wav",
-   "ES_Supreme_A_Lo_175.wav",
-   "ES_Supreme_B_175.wav",
-   "ES_Supreme_B_Lo_175.wav"
+   "supreme_a.wav",
+   "supreme_b.wav",
+   "supreme_c.wav",
+   "supreme_d.wav"
   ],
   "think": [
-   "ES_Think_A_175.wav",
-   "ES_Think_B_175.wav",
-   "ES_Think_C_175.wav",
-   "ES_Think_D_175.wav"
+   "think_a.wav",
+   "think_b.wav",
+   "think_c.wav",
+   "think_d.wav"
   ],
   "worm": [
-   "ES_Worm_A_175.wav",
-   "ES_Worm_B_175.wav",
-   "ES_Worm_C_175.wav"
+   "worm_a.wav",
+   "worm_b.wav",
+   "worm_c.wav"
   ],
 
   "pad": [
