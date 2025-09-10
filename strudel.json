@@ -55,4 +55,8 @@
    "ES_Worm_B_175.wav",
    "ES_Worm_C_175.wav"
   ],
+
+  "pad": [
+    "PAD EX5-25.wav"
+  ]
 }
