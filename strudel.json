@@ -10,5 +10,13 @@
    "ES_Apache_A_175.wav",
    "ES_Apache_B_175.wav",
    "ES_Apache_C_175.wav"   
+  ],
+  "do": [
+   "ES_Do_B_175.wav",
+   "ES_Do_A_175.wav" 
+  ],
+  "hotpants": [
+   "ES_HotPants_A_175.wav",
+   "ES_HotPants_B_175.wav" 
   ]
 }
