@@ -20,5 +20,9 @@
    "ES_HotPants_B_175.wav" 
   ],
   "funky": "ES_FunkyDrummer_A_175.wav",
+  "heli": [
+   "ES_HeliBlow_A_175.wav",
+   "ES_HeliBlow_B_175.wav"
+  ],
   "mule": "ES_FunkyMule_A_175.wav"
 }
