@@ -2,9 +2,9 @@
   
   "_base": "https://raw.githubusercontent.com/archiefrancismiller/samples",
   "amen": [
-    "ES_AmenClean_A_175.wav",
-    "ES_AmenClean_A2_175.wav",
-    "ES_AmenClean_A3_175.wav"
+    "amen_a.wav",
+    "amen_b.wav",
+    "amen_c.wav"
   ],
   "apache": [
    "ES_Apache_A_175.wav",
