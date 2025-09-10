@@ -7,15 +7,15 @@
     "amen_c.wav"
   ],
   "apache": [
-   "ES_Apache_A_175.wav",
-   "ES_Apache_B_175.wav",
-   "ES_Apache_C_175.wav"   
+   "apache_a.wav",
+   "apache_b.wav",
+   "apache_c.wav"   
   ],
   "do": [
-   "ES_Do_B_175.wav",
-   "ES_Do_A_175.wav" 
+   "do_a.wav",
+   "do_b.wav" 
   ],
-  "funky": "ES_FunkyDrummer_A_175.wav",
+  "funky": "funky.wav",
   "heli": [
    "ES_HeliBlow_A_175.wav",
    "ES_HeliBlow_B_175.wav"
