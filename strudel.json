@@ -56,7 +56,7 @@
    "worm_c.wav"
   ],
 
-  "pad": [
-    "PAD EX5-25.wav"
+  "pads": [
+    "ex525.wav"
   ]
 }
