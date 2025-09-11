@@ -58,7 +58,8 @@
 
   "pads": [
     "ex525.wav",
-    "slo_m9.wav"
+    "slo_m9.wav",
+    "fifth.wav"
   ],
   
   "1shot": [
