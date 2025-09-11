@@ -58,5 +58,11 @@
 
   "pads": [
     "ex525.wav"
+  ],
+  
+  "1shot": [
+    "treedown.wav"
+    "treeup.wav"
   ]
+
 }
