@@ -101,7 +101,11 @@
     "dropsub_a.wav",
     "dropsub_b.wav",
     "dropsub_c.wav",
-    "dropsub_d.wav",
+    "dropsub_d.wav"
+  ],
+  "stab": [
+    "beckon_m.wav",
+    "dubois_m.wav"
   ],
 
   "tops": [
