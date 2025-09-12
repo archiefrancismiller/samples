@@ -61,9 +61,9 @@
   ],
 
   "pads": [
+    "ex525.wav",
     "cluster.wav",
     "noise.wav",
-    "ex525.wav",
     "slo_m9.wav",
     "fast_m7.wav",
     "jay_maj7.wav",
@@ -74,14 +74,24 @@
     "eden_maj.wav",
     "escapist_maj.wav",
     "fig_maj.wav",
-    "garlands_maj",
-    "goldfish_m",
-    "green_maj",
+    "garlands_maj.wav",
+    "goldfish_m.wav",
+    "green_maj.wav",
     "hrae_m.wav",
     "ink_maj.wav",
     "lebada_m.wav",
     "locker_m.wav",
-    "mileni_m.wav"
+    "mileni_m.wav",
+    "oaza_maj.wav",
+    "ocean_maj.wav",
+    "posei_maj.wav",
+    "rings_m.wav",
+    "rosa_maj.wav",
+    "route_m.wav",
+    "spiral_m.wav",
+    "turn_maj.wav",
+    "voxel_m.wav",
+    "zone_m.wav"
   ],
   
   "1shot": [
