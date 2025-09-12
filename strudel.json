@@ -56,6 +56,10 @@
    "worm_c.wav"
   ],
 
+  "bongos": [
+    "bongos_a"
+  ],
+
   "pads": [
     "ex525.wav",
     "slo_m9.wav",
@@ -67,8 +71,13 @@
   ],
   
   "1shot": [
-    "treedown.wav"
+    "treedown.wav",
     "treeup.wav"
+  ],
+
+  "tops": [
+  "cabasa.wav"
+  "tambo.wav"
   ]
 
 }
