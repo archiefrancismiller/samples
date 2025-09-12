@@ -96,7 +96,12 @@
   
   "1shot": [
     "treedown.wav",
-    "treeup.wav"
+    "treeup.wav",
+    "gameover.wav",
+    "dropsub_a.wav",
+    "dropsub_b.wav",
+    "dropsub_c.wav",
+    "dropsub_d.wav",
   ],
 
   "tops": [
