@@ -79,6 +79,7 @@
     "green_maj.wav",
     "hrae_m.wav",
     "ink_maj.wav",
+    "itachi_m.wav",
     "lebada_m.wav",
     "locker_m.wav",
     "mileni_m.wav",
@@ -105,7 +106,21 @@
   ],
   "stab": [
     "beckon_m.wav",
-    "dubois_m.wav"
+    "dubois_m.wav",
+    "feliz_maj.wav",
+    "hash_maj.wav",
+    "held_maj.wav",
+    "inquire_maj.wav",
+    "level_maj.wav",
+    "liner_maj.wav",
+    "pine_maj.wav",
+    "serpico_maj.wav",
+    "settle_m.wav",
+    "smooth_maj.wav",
+    "tact_m.wav",
+    "vertex_maj.wav",
+    "wilt_maj.wav",
+    "yutopia_maj.wav"
   ],
 
   "tops": [
