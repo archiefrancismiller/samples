@@ -61,13 +61,17 @@
   ],
 
   "pads": [
+    "cluster.wav",
+    "noise.wav",
     "ex525.wav",
     "slo_m9.wav",
     "fast_m7.wav",
     "jay_maj7.wav",
     "strings_m7.wav",
-    "occent_maj7.wav"
-    "strings_9.wav"
+    "occent_maj7.wav",
+    "strings_9.wav",
+    "balear_maj.wav",
+    "eden_maj.wav"
   ],
   
   "1shot": [
@@ -76,7 +80,7 @@
   ],
 
   "tops": [
-  "cabasa.wav"
+  "cabasa.wav",
   "tambo.wav"
   ]
 
