@@ -15,6 +15,9 @@
    "do_a.wav",
    "do_b.wav" 
   ],
+  "fireline": [
+    "fireline.wav"
+  ],
   "funky": "funky.wav",
   "heli": [
    "heli_a.wav",
