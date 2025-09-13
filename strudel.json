@@ -30,6 +30,9 @@
    "hotpants_a.wav",
    "hotpants_b.wav" 
   ],
+  "immersive": [
+    "immersive.wav"
+  ],
   "life": [
    "life_a.wav",
    "life_b.wav",
