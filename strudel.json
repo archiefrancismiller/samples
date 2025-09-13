@@ -18,6 +18,9 @@
   "fireline": [
     "fireline.wav"
   ],
+  "footwork": [
+    "footwork_a.wav"
+  ],
   "funky": "funky.wav",
   "heli": [
    "heli_a.wav",
@@ -31,6 +34,9 @@
    "life_a.wav",
    "life_b.wav",
    "life_c.wav"
+  ],
+  "metallic": [
+    "metallic.wav"
   ],
   "mule": "mule.wav",
   "noisia": "noisia.wav",
