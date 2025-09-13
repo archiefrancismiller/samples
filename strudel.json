@@ -3,26 +3,6 @@
   "_base": "https://raw.githubusercontent.com/archiefrancismiller/samples",
 
 
-  "scotty": [
-   "scotty_a.wav",
-   "scotty_b.wav",
-   "scotty_c.wav",
-   "scotty_d.wav"
-  ],
-  "skul": "skul.wav",
-  "stutter": "stutter.wav",
-  "supreme": [
-   "supreme_a.wav",
-   "supreme_b.wav",
-   "supreme_c.wav",
-   "supreme_d.wav"
-  ],
-  "think": [
-   "think_a.wav",
-   "think_b.wav",
-   "think_c.wav",
-   "think_d.wav"
-  ],
   "worm": [
    "worm_a.wav",
    "worm_b.wav",
@@ -54,7 +34,24 @@
     "metallic.wav",
     "mule.wav",
     "noisia.wav",
-    "runs.wav"
+    "runs.wav",
+    "scotty_a.wav",
+    "scotty_b.wav",
+    "scotty_c.wav",
+    "scotty_d.wav",
+    "skul.wav",
+    "stutter.wav",
+    "supreme_a.wav",
+    "supreme_b.wav",
+    "supreme_c.wav",
+    "supreme_d.wav",
+    "think_a.wav",
+    "think_b.wav",
+    "think_c.wav",
+    "think_d.wav",
+    "worm_a.wav",
+    "worm_b.wav",
+    "worm_c.wav"
   ],
 
   "pads": [
