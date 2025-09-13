@@ -30,6 +30,7 @@
    "life_c.wav"
   ],
   "mule": "mule.wav",
+  "noisia": "noisia.wav",
   "runs": "runs.wav",
   "scotty": [
    "scotty_a.wav",
@@ -57,7 +58,7 @@
   ],
 
   "bongos": [
-    "bongos_a"
+    "bongo_bit.wav"
   ],
 
   "pads": [
@@ -102,7 +103,12 @@
     "dropsub_a.wav",
     "dropsub_b.wav",
     "dropsub_c.wav",
-    "dropsub_d.wav"
+    "dropsub_d.wav",
+    "turism.wav",
+    "burst.wav",
+    "filtro.wav",
+    "klang.wav",
+    "akai.wav"
   ],
   "stab": [
     "beckon_m.wav",
@@ -125,7 +131,10 @@
 
   "tops": [
   "cabasa.wav",
-  "tambo.wav"
+  "tambo.wav",
+  "mainframe.wav",
+  "funkeh.wav",
+  "bongohat.wav"
   ],
 
   "bass": [
@@ -150,6 +159,13 @@
   "reese_splurge_g.wav",
   "reese_sweep_f.wav",
   "reese_vascio_e.wav"
+  ],
+
+  "vox": [
+  "oh.wav",
+  "ad_reach_Cm.wav",
+  "ad_formant_Am.wav",
+  "ad_oowa_Em.wav"
   ],
 
 }
