@@ -20,6 +20,7 @@
     "fireline.wav",
     "footwork_a.wav",
     "funky.wav",
+    "hangar.wav",
     "heli_a.wav",
     "heli_b.wav",
     "hello.wav",
@@ -56,6 +57,19 @@
     "worm_a.wav",
     "worm_b.wav",
     "worm_c.wav"
+  ],
+
+  "tops": [
+  "cabasa_a.wav",
+  "tambo_a.wav",
+  "mainframe.wav",
+  "funkeh.wav",
+  "bongohat.wav",
+  "panuru.wav",
+  "fuss.wav",
+  "lift.wav",
+  "ruga.wav",
+  "aya.wav"
   ],
 
   "pads": [
@@ -126,19 +140,6 @@
     "yutopia_maj.wav"
   ],
 
-  "tops": [
-  "cabasa_a.wav",
-  "tambo_a.wav",
-  "mainframe.wav",
-  "funkeh.wav",
-  "bongohat.wav",
-  "panuru.wav",
-  "fuss.wav",
-  "lift.wav",
-  "ruga.wav",
-  "aya.wav"
-  ],
-
   "bass": [
   "808_aya_g.wav",
   "808_built_e.wav",
@@ -169,6 +170,13 @@
   "ad_formant_Am.wav",
   "ad_oowa_Em.wav",
   "ad_numb_Cm.wav"
+  ],
+
+  "ir": [
+  "psx_church.wav",
+  "psx_dome.wav",
+  "psx_hall.wav",
+  "psx_church.studio"
   ],
 
 }
