@@ -1,13 +1,7 @@
 {
   
   "_base": "https://raw.githubusercontent.com/archiefrancismiller/samples",
-  "active": "active.wav",
 
-  "apache": [
-   "apache_a.wav",
-   "apache_b.wav",
-   "apache_c.wav"   
-  ],
   "do": [
    "do_a.wav",
    "do_b.wav" 
@@ -68,11 +62,15 @@
   ],
 
   "break": [
+    "active.wav",
     "amen_a.wav",
     "amen_b.wav",
     "amen_c.wav",
+    "apache_a.wav",
+    "apache_b.wav",
+    "apache_c.wav",
     "bongo_bit.wav"
-  ]
+  ],
 
   "pads": [
     "ex525.wav",
