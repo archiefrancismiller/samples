@@ -2,28 +2,7 @@
   
   "_base": "https://raw.githubusercontent.com/archiefrancismiller/samples",
 
-  "do": [
-   "do_a.wav",
-   "do_b.wav" 
-  ],
-  "fireline": [
-    "fireline.wav"
-  ],
-  "footwork": [
-    "footwork_a.wav"
-  ],
-  "funky": "funky.wav",
-  "heli": [
-   "heli_a.wav",
-   "heli_b.wav"
-  ],
-  "hotpants": [
-   "hotpants_a.wav",
-   "hotpants_b.wav" 
-  ],
-  "immersive": [
-    "immersive.wav"
-  ],
+
   "life": [
    "life_a.wav",
    "life_b.wav",
@@ -69,7 +48,17 @@
     "apache_a.wav",
     "apache_b.wav",
     "apache_c.wav",
-    "bongo_bit.wav"
+    "bongo_bit.wav",
+    "do_a.wav",
+    "do_b.wav",
+    "fireline.wav",
+    "footwork_a.wav",
+    "funky.wav",
+    "heli_a.wav",
+    "heli_b.wav",
+    "hotpants_a.wav",
+    "hotpants_b.wav",
+    "immersive.wav"
   ],
 
   "pads": [
