@@ -2,13 +2,6 @@
   
   "_base": "https://raw.githubusercontent.com/archiefrancismiller/samples",
 
-
-  "worm": [
-   "worm_a.wav",
-   "worm_b.wav",
-   "worm_c.wav"
-  ],
-
   "break": [
     "active.wav",
     "amen_a.wav",
