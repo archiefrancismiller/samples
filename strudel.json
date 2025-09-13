@@ -4,6 +4,7 @@
 
   "break": [
     "active.wav",
+    "alley.wav",
     "amen_a.wav",
     "amen_b.wav",
     "amen_c.wav",
@@ -11,6 +12,7 @@
     "apache_b.wav",
     "apache_c.wav",
     "bongo_bit.wav",
+    "cloak.wav",
     "collapse.wav",
     "crop.wav",
     "dirties.wav",
@@ -22,6 +24,7 @@
     "fuel.wav",
     "funky.wav",
     "hangar.wav",
+    "haul.wav",
     "heli_a.wav",
     "heli_b.wav",
     "hello.wav",
@@ -33,6 +36,7 @@
     "life_b.wav",
     "life_c.wav",
     "lo.wav",
+    "luge.wav",
     "metallic.wav",
     "mule.wav",
     "noisia.wav",
@@ -40,6 +44,7 @@
     "overcomp.wav",
     "pilot.wav",
     "pyro.wav",
+    "raider.wav",
     "runs.wav",
     "scotty_a.wav",
     "scotty_b.wav",
@@ -56,6 +61,7 @@
     "think_b.wav",
     "think_c.wav",
     "think_d.wav",
+    "urge.wav",
     "wings.wav",
     "worm_a.wav",
     "worm_b.wav",
@@ -76,7 +82,13 @@
   "quench.wav",
   "turism.wav",
   "arcade.wav",
-  "accel.wav"
+  "accel.wav",
+  "liana.wav",
+  "gravity.wav",
+  "remote.wav",
+  "ridge.wav",
+  "ambrose.wav",
+  "nerf.wav"
   ],
 
   "pads": [
