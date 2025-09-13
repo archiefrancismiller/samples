@@ -138,9 +138,18 @@
   "808_larg_g#.wav",
   "808_lvl_g#.wav",
   "808_ouch_f.wav",
-  "peepdread_d.wav",
-  "mira_g.wav",
-  "reese_choose_a#"
+  "reese_dread_d.wav",
+  "reese_mira_g.wav",
+  "reese_catalog_g.wav",
+  "reese_choose_a#.wav",
+  "reese_disperse_d.wav",
+  "reese_droop_a.wav",
+  "reese_falanx_d.wav",
+  "reese_jolt_a.wav",
+  "reese_silk_g.wav",
+  "reese_splurge_g.wav",
+  "reese_sweep_f.wav",
+  "reese_vascio_e.wav"
   ],
 
 }
