@@ -38,6 +38,7 @@
     "noisia.wav",
     "outism.wav",
     "overcomp.wav",
+    "pilot.wav",
     "pyro.wav",
     "runs.wav",
     "scotty_a.wav",
@@ -55,6 +56,7 @@
     "think_b.wav",
     "think_c.wav",
     "think_d.wav",
+    "wings.wav",
     "worm_a.wav",
     "worm_b.wav",
     "worm_c.wav"
@@ -70,7 +72,11 @@
   "fuss.wav",
   "lift.wav",
   "ruga.wav",
-  "aya.wav"
+  "aya.wav",
+  "quench.wav",
+  "turism.wav",
+  "arcade.wav",
+  "accel.wav"
   ],
 
   "pads": [
