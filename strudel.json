@@ -2,11 +2,7 @@
   
   "_base": "https://raw.githubusercontent.com/archiefrancismiller/samples",
   "active": "active.wav",
-  "amen": [
-    "amen_a.wav",
-    "amen_b.wav",
-    "amen_c.wav"
-  ],
+
   "apache": [
    "apache_a.wav",
    "apache_b.wav",
@@ -72,6 +68,9 @@
   ],
 
   "break": [
+    "amen_a.wav",
+    "amen_b.wav",
+    "amen_c.wav",
     "bongo_bit.wav"
   ]
 
