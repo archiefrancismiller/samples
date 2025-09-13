@@ -139,11 +139,16 @@
   ],
 
   "tops": [
-  "cabasa.wav",
-  "tambo.wav",
+  "cabasa_a.wav",
+  "tambo_a.wav",
   "mainframe.wav",
   "funkeh.wav",
-  "bongohat.wav"
+  "bongohat.wav",
+  "panuru.wav",
+  "fuss.wav",
+  "lift.wav",
+  "ruga.wav",
+  "aya.wav"
   ],
 
   "bass": [
