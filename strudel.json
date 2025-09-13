@@ -3,17 +3,6 @@
   "_base": "https://raw.githubusercontent.com/archiefrancismiller/samples",
 
 
-  "life": [
-   "life_a.wav",
-   "life_b.wav",
-   "life_c.wav"
-  ],
-  "metallic": [
-    "metallic.wav"
-  ],
-  "mule": "mule.wav",
-  "noisia": "noisia.wav",
-  "runs": "runs.wav",
   "scotty": [
    "scotty_a.wav",
    "scotty_b.wav",
@@ -58,7 +47,14 @@
     "heli_b.wav",
     "hotpants_a.wav",
     "hotpants_b.wav",
-    "immersive.wav"
+    "immersive.wav",
+    "life_a.wav",
+    "life_b.wav",
+    "life_c.wav",
+    "metallic.wav",
+    "mule.wav",
+    "noisia.wav",
+    "runs.wav"
   ],
 
   "pads": [
