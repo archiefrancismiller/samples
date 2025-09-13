@@ -1,6 +1,7 @@
 {
   
   "_base": "https://raw.githubusercontent.com/archiefrancismiller/samples",
+  "active": "active.wav",
   "amen": [
     "amen_a.wav",
     "amen_b.wav",
@@ -51,6 +52,7 @@
    "scotty_d.wav"
   ],
   "skul": "skul.wav",
+  "stutter": "stutter.wav",
   "supreme": [
    "supreme_a.wav",
    "supreme_b.wav",
@@ -182,7 +184,8 @@
   "oh.wav",
   "ad_reach_Cm.wav",
   "ad_formant_Am.wav",
-  "ad_oowa_Em.wav"
+  "ad_oowa_Em.wav",
+  "ad_numb_Cm.wav"
   ],
 
 }
