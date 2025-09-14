@@ -148,6 +148,10 @@
     "dark.wav",
     "warm.wav"
   ],
+
+  "text": [
+
+  ],
   
   "1shot": [
     "treedown.wav",
@@ -161,8 +165,26 @@
     "burst.wav",
     "filtro.wav",
     "klang.wav",
-    "akai.wav"
+    "akai.wav",
+    "gun1.wav",
+    "gun2.wav",
+    "hip.wav",
+    "ice.wav",
+    "clown.wav",
+    "howl.wav",
+    "owl.wav",
+    "radio.wav",
+    "rattle.wav",
+    "spaceport.wav",
+    "tapestop.wav",
+    "wash.wav",
+    "thunder.wav",
+    "white_down.wav",
+    "warble_down.wav",
+    "wow.wav",
+    "zap.wav"
   ],
+
   "stab": [
     "beckon_m.wav",
     "dubois_m.wav",
@@ -180,7 +202,11 @@
     "vertex_maj.wav",
     "wilt_maj.wav",
     "yutopia_maj.wav",
-    "staby.wav"
+    "staby.wav",
+    "brass.wav",
+    "pizz.wav",
+    "piano.wav",
+    "surf.wav"
   ],
 
   "bass": [
@@ -213,7 +239,11 @@
   "ad_reach_Cm.wav",
   "ad_formant_Am.wav",
   "ad_oowa_Em.wav",
-  "ad_numb_Cm.wav"
+  "ad_numb_Cm.wav",
+  "alright.wav",
+  "brr.wav",
+  "comeon.wav",
+  "dirtycall.wav"
   ],
 
   "ir": [
