@@ -106,10 +106,9 @@
 
   "tops": [
   "cabasa_a.wav",
-  "tambo_a.wav",
-  "tambo_b.wav",
-  "tambo_c.wav",
-  "tambo_d.wav",
+  "tambo_no_a.wav",
+  "tambo_no_b.wav",
+  "tambo_on_a.wav",
   "mainframe.wav",
   "funkeh.wav",
   "bongohat_1.wav",
@@ -132,9 +131,20 @@
   "atomic.wav",
   "crusty.wav",
   "hidden.wav",
-  "shaker_a.wav",
-  "shaker_b.wav",
-  "shaker_c.wav",
+  "shaker_halftime.wav",
+  "shaker_gallop.wav",
+  "shaker_on_lo.wav",
+  "shaker_on_med.wav",
+  "shaker_on_hi.wav",
+  "shaker_no_lo.wav",
+  "shaker_no_med.wav",
+  "shaker_no_hi.wav",
+  "shaker_off_lo.wav",
+  "shaker_off_med.wav",
+  "shaker_off_hi.wav",
+  "shaker_tri_lo.wav",
+  "shaker_tri_med.wav",
+  "shaker_tri_hi.wav",
   "tom_roll.wav",
   "dinky.wav",
   "20C.wav",
@@ -246,7 +256,9 @@
     "warble_down.wav",
     "wow.wav",
     "zap.wav",
-    "trix.wav"
+    "trix.wav",
+    "ps2.wav",
+    "hl2_alarm.wav"
   ],
 
   "stab": [
