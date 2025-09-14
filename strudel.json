@@ -106,9 +106,13 @@
 
   "tops": [
   "cabasa_a.wav",
-  "tambo_no_a.wav",
-  "tambo_no_b.wav",
-  "tambo_on_a.wav",
+  "tambo_lofi_a.wav",
+  "tambo_lofi_b.wav",
+  "tambo_lofi_c.wav",
+  "tambo_tri.wav",
+  "tambo_no.wav",
+  "tambo_off.wav",
+  "tambo_on.wav",
   "mainframe.wav",
   "funkeh.wav",
   "bongohat_1.wav",
