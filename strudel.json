@@ -11,10 +11,14 @@
     "apache_a.wav",
     "apache_b.wav",
     "apache_c.wav",
+    "appreciate.wav",
+    "auto.wav",
+    "bboy.wav",
     "bongo_bit.wav",
     "cloak.wav",
     "collapse.wav",
     "crop.wav",
+    "demon.wav",
     "deny.wav",
     "dirties.wav",
     "do_a.wav",
@@ -35,6 +39,7 @@
     "hotpants_b.wav",
     "immersive.wav",
     "inout.wav",
+    "kickhat.wav",
     "life_a.wav",
     "life_b.wav",
     "life_c.wav",
@@ -79,6 +84,9 @@
   "tops": [
   "cabasa_a.wav",
   "tambo_a.wav",
+  "tambo_b.wav",
+  "tambo_c.wav",
+  "tambo_d.wav",
   "mainframe.wav",
   "funkeh.wav",
   "bongohat.wav",
@@ -99,7 +107,13 @@
   "nerf.wav",
   "atomic.wav",
   "crusty.wav",
-  "hidden.wav"
+  "hidden.wav",
+  "shaker_a.wav",
+  "shaker_b.wav",
+  "shaker_c.wav",
+  "tom_roll.wav",
+  "dinky.wav",
+  "20C.wav"
   ],
 
   "pads": [
@@ -235,7 +249,8 @@
   ],
 
   "vox": [
-  "oh.wav",
+  "oh_1.wav",
+  "oh_2.wav",
   "ad_reach_Cm.wav",
   "ad_formant_Am.wav",
   "ad_oowa_Em.wav",
@@ -243,7 +258,15 @@
   "alright.wav",
   "brr.wav",
   "comeon.wav",
-  "dirtycall.wav"
+  "dirtycall.wav",
+  "eh.wav",
+  "fire.wav",
+  "oi.wav",
+  "oo.wav",
+  "rubadub.wav",
+  "scatter.wav",
+  "turntable.wav",
+  "wah.wav"
   ],
 
   "ir": [
