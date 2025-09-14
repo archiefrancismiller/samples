@@ -134,7 +134,19 @@
     "spiral_m.wav",
     "turn_maj.wav",
     "voxel_m.wav",
-    "zone_m.wav"
+    "zone_m.wav",
+    "choirstring_m.wav",
+    "shimmer.wav",
+    "full.wav",
+    "lofi.wav",
+    "orch.wav",
+    "phat.wav",
+    "solar.wav",
+    "statement.wav",
+    "timeless.wav",
+    "wail.wav",
+    "dark.wav",
+    "warm.wav"
   ],
   
   "1shot": [
@@ -167,7 +179,8 @@
     "tact_m.wav",
     "vertex_maj.wav",
     "wilt_maj.wav",
-    "yutopia_maj.wav"
+    "yutopia_maj.wav",
+    "staby.wav"
   ],
 
   "bass": [
@@ -191,7 +204,8 @@
   "reese_silk_g.wav",
   "reese_splurge_g.wav",
   "reese_sweep_f.wav",
-  "reese_vascio_e.wav"
+  "reese_vascio_e.wav",
+  "dred.wav"
   ],
 
   "vox": [
