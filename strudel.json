@@ -80,16 +80,21 @@
     "scream.wav",
     "skul.wav",
     "snares.wav",
+    "soulpride_a.wav",
+    "soulpride_b.wav",
+    "soulpride_c.wav",
     "stutter.wav",
     "supreme_a.wav",
     "supreme_b.wav",
     "supreme_c.wav",
     "supreme_d.wav",
+    "survive.wav",
     "think_a.wav",
     "think_b.wav",
     "think_c.wav",
     "think_d.wav",
     "thorns.wav",
+    "train.wav",
     "tunnel.wav",
     "urge.wav",
     "virtue.wav",
@@ -136,13 +141,16 @@
   "chip.wav",
   "important.wav",
   "tribal.wav",
-  "jungle.wav",
+  "jungle_1.wav",
+  "jungle_2.wav",
   "optical_1.wav",
   "optical_2.wav",
   "optimise.wav",
   "peek.wav",
   "posi.wav",
-  "rat.wav"
+  "rat.wav",
+  "rude.wav",
+  "tiktok.wav"
   ],
 
   "pads": [
@@ -189,7 +197,19 @@
     "timeless.wav",
     "wail.wav",
     "dark.wav",
-    "warm.wav"
+    "warm.wav",
+    "aya.wav",
+    "wind.wav",
+    "deepblue_m.wav",
+    "ff_m.wav",
+    "station_m.wav",
+    "surfing_maj.wav",
+    "matrix_maj.wav",
+    "morning_m.wav",
+    "pink_maj.wav",
+    "sega_m.wav",
+    "shadow_m.wav",
+    "y2k_maj.wav"
   ],
 
   "text": [
@@ -225,7 +245,8 @@
     "white_down.wav",
     "warble_down.wav",
     "wow.wav",
-    "zap.wav"
+    "zap.wav",
+    "trix.wav"
   ],
 
   "stab": [
@@ -249,7 +270,8 @@
     "brass.wav",
     "pizz.wav",
     "piano.wav",
-    "surf.wav"
+    "surf.wav",
+    "insight.wav"
   ],
 
   "bass": [
