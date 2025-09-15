@@ -294,7 +294,9 @@
     "zap.wav",
     "trix.wav",
     "ps2.wav",
-    "hl2_alarm.wav"
+    "revcymb.wav",
+    "hl2_alarm.wav",
+    "disso_brass.wav"
   ],
 
   "stab": [
@@ -315,11 +317,31 @@
     "wilt_maj.wav",
     "yutopia_maj.wav",
     "staby.wav",
-    "brass.wav",
+    "brass_a.wav",
+    "brass_b.wav",
+    "brass_c.wav",
+    "brass_d.wav",
+    "brass_e.wav",
     "pizz.wav",
     "piano.wav",
     "surf.wav",
-    "insight.wav"
+    "insight.wav",
+    "orchit_1.wav",
+    "orchit_2.wav",
+    "orchit_3.wav",
+    "orchit_4.wav",
+    "orchit_5.wav",
+    "orchit_6.wav",
+    "orchit_7.wav",
+    "orchit_8.wav",
+    "orchit_9.wav",
+    "orchit_10.wav",
+    "orchit_11.wav",
+    "orchit_12.wav",
+    "orchit_13.wav",
+    "timpani.wav",
+    "yow.wav"
+
   ],
 
   "bass": [
@@ -365,7 +387,15 @@
   "rubadub.wav",
   "scatter.wav",
   "turntable.wav",
-  "wah.wav"
+  "wah.wav",
+  "ad_oohbaby.wav",
+  "ad_nah.wav",
+  "fromthetop.wav",
+  "loveyou.wav",
+  "love.wav",
+  "checkit.wav",
+  "terrific.wav",
+  "bustit.wav"
   ],
 
   "ir": [
