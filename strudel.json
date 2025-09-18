@@ -37,7 +37,6 @@
     "finished.wav",
     "fireline.wav",
     "flumps.wav",
-    "footwork.wav",
     "fuel.wav",
     "fullsize.wav",
     "funky.wav",
@@ -98,10 +97,7 @@
     "tunnel.wav",
     "urge.wav",
     "virtue.wav",
-    "wings.wav",
-    "worm_a.wav",
-    "worm_b.wav",
-    "worm_c.wav"
+    "wings.wav"
   ],
 
   "tops": [
@@ -166,7 +162,10 @@
   "rat.wav",
   "rude.wav",
   "tiktok.wav",
-  "clave.wav"
+  "clave.wav",
+  "worm_a.wav",
+  "worm_b.wav",
+  "worm_c.wav"
   ],
 
   "pads": [
