@@ -165,7 +165,8 @@
   "clave.wav",
   "worm_a.wav",
   "worm_b.wav",
-  "worm_c.wav"
+  "worm_c.wav",
+  "casio.wav"
   ],
 
   "pads": [
@@ -283,8 +284,13 @@
     "trix.wav",
     "ps2.wav",
     "revcymb.wav",
-    "hl2_alarm.wav",
-    "disso_brass.wav"
+    "alarm_hl2.wav",
+    "klaxon_hl2.wav",
+    "bell_hl2.wav",
+    "siren_hl2.wav",
+    "razortrain_hl2.wav",
+    "disso_brass.wav",
+    "shaku.wav"
   ],
 
   "stab": [
@@ -337,7 +343,6 @@
   "bass": [
   "808_aya_g.wav",
   "808_built_e.wav",
-  "808_genki_g.wav",
   "808_goom_a#.wav",
   "808_grin_d.wav",
   "808_keen_f#.wav",
