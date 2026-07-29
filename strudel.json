@@ -285,7 +285,7 @@
     "zap.wav",
     "trix.wav",
     "ps2.wav",
-    "revcymb.wav",
+    "rev_cym.wav",
     "alarm_hl2.wav",
     "klaxon_hl2.wav",
     "bell_hl2.wav",
@@ -322,7 +322,21 @@
     "time_suck.wav",
     "raven.wav",
     "phoot.wav",
-    "watchout.wav"
+    "watchout.wav",
+    "washup.wav",
+    "windrise.wav",
+    "breakdown.wav",
+    "hello.wav",
+    "rev.wav",
+    "klangup.wav",
+    "modring.wav",
+    "stabby.wav",
+    "shards.wav",
+    "spinback.wav",
+    "timefor.wav",
+    "gulls.wav",
+    "alarm.wav",
+    "backnforth.wav"
   ],
 
   "stab": [
@@ -406,7 +420,8 @@
     "flutta.wav",
     "mood.wav",
     "flute_lick.wav",
-    "tech_gong.wav"
+    "tech_gong.wav",
+    "shimma.wav"
   ],
 
   "bass": [
