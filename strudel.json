@@ -254,7 +254,8 @@
     "animal_18.wav",
     "animal_19.wav",
     "treedown.wav",
-    "treeup.wav",
+    "treeup_a.wav",
+    "treeup_b.wav",
     "gameover.wav",
     "dropsub_a.wav",
     "dropsub_b.wav",
@@ -315,7 +316,13 @@
     "yike.wav",
     "dub_fb.wav",
     "spinup.wav",
-    "spindown.wav"
+    "spindown.wav",
+    "strange_tech.wav",
+    "bot.wav",
+    "time_suck.wav",
+    "raven.wav",
+    "phoot.wav",
+    "watchout.wav"
   ],
 
   "stab": [
@@ -377,7 +384,29 @@
     "choir_elec.wav",
     "vocal.wav",
     "guitar_bend.wav",
-    "power.wav"
+    "power.wav",
+    "sharp.wav",
+    "guitar_skank.wav",
+    "guitar_slide.wav",
+    "guitar_hrm_a",
+    "guitar_wah_a.wav",
+    "guitar_sus.wav",
+    "org_disso.wav",
+    "org_wet.wav",
+    "substain.wav",
+    "biomind_g_maj.wav",
+    "rhodes_dark.wav",
+    "rhodes_bright.wav",
+    "rhodes_sus.wav",
+    "rhodes_jazz.wav",
+    "rhodes_lick_a.wav",
+    "rhodes_lick_b.wav",
+    "rhodes_trem.wav",
+    "tense.wav",
+    "flutta.wav",
+    "mood.wav",
+    "flute_lick.wav",
+    "tech_gong.wav"
   ],
 
   "bass": [
