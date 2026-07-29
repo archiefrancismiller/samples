@@ -290,8 +290,12 @@
     "bell_hl2.wav",
     "siren_hl2.wav",
     "razortrain_hl2.wav",
-    "disso_brass.wav",
-    "shaku.wav"
+    "brass_disso.wav",
+    "shaku.wav",
+    "bird.wav",
+    "bubble.wav",
+    "swish.wav",
+    "cry.wav"
   ],
 
   "stab": [
