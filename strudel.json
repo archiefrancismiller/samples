@@ -306,7 +306,16 @@
     "simma.wav",
     "trans_wash.wav",
     "youdied.wav",
-    "weird_a.wav"
+    "weird_a.wav",
+    "wasps.wav",
+    "paddle.wav",
+    "state_change.wav",
+    "darkrev.wav",
+    "sputter.wav",
+    "yike.wav",
+    "dub_fb.wav",
+    "spinup.wav",
+    "spindown.wav"
   ],
 
   "stab": [
@@ -346,7 +355,6 @@
     "brass_b.wav",
     "brass_c.wav",
     "brass_d.wav",
-    "brass_e.wav",
     "pizz.wav",
     "piano.wav",
     "surf.wav",
@@ -368,8 +376,8 @@
     "yow.wav",
     "choir_elec.wav",
     "vocal.wav",
-    "guitar_bend"
-
+    "guitar_bend.wav",
+    "power.wav"
   ],
 
   "bass": [
